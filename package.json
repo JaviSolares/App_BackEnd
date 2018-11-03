@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JaviSolares/App_BackEnd/issues"
   },
-  "homepage": "https://github.com/JaviSolares/App_BackEnd#readme"
+  "homepage": "https://github.com/JaviSolares/App_BackEnd#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
